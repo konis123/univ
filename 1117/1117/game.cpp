@@ -64,7 +64,7 @@ unsigned int __stdcall keyEvent(void*) {
 			game->setDirection(i);
 	}
 }
-
+/*
 int main() {
 
 	HANDLE handleA, handleB;
@@ -81,3 +81,4 @@ int main() {
 
 	return 0;
 }
+*/
